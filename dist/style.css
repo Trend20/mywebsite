@@ -1248,10 +1248,10 @@ xclip
     position: absolute;
 }
 
-.icons li:hover{
+/* .icons li:hover{
     background: #9e9b9b;
     color: #fff;
-}
+} */
 .post-media {
     position: relative;
 }

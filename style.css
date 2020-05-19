@@ -674,6 +674,46 @@ xclip
 	font-size: 22px;
 	font-weight: 600;
 }
+/* SKILLS */
+.language-section{
+    display: flex;
+    align-items: center;
+}
+.language-list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+.language-list li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.fa-js{
+    color: #eff31e;
+}
+.fa-html5{
+    color: #da3417;
+}
+.fa-css3{
+    color: #1e3ef3;
+}
+.fa-sass{
+    color: #1ea5f3;
+}
+.fa-react{
+    color: #1ec1f3;
+}
+.fa-node-js{
+    color: #2d6431;
+}
+.fa-github{
+    color: #0c0c0b;
+}
 
 
 /*------------------------------------------------------------------

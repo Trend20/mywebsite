@@ -123,22 +123,27 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		width: 100%;
 	}
 	.language-list{
 	  display: flex;
 	  justify-content: center;
 	  align-items: center;
-	  font-size: 50px;
-	  width: 100%;
+	  max-width: 70%;
+	  font-size: 70px;
 	}
 	.language-list li{
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 20px;
-		cursor: pointer;
-		width: 100%;
+		max-width: 70%;
+		font-size: 70px;
+	}
+	.language-list li i{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		max-width: 50%;
+		font-size: 50px;
 	}
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {

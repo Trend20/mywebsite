@@ -1569,6 +1569,10 @@ hr.invis1 {
     ;
 }
 
+.gallery-single p{
+    margin-left: 10px;
+}
+
 .gallery-single {
     position: relative;
     overflow: hidden;

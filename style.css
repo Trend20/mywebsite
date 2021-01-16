@@ -1316,6 +1316,7 @@ xclip
     align-items: center;
     margin: 10px;
     padding: 10px;
+    margin-left: -60px;
 }
 
 .icons li {
@@ -1334,6 +1335,7 @@ xclip
     top: 30%;
     left: 30%;
     position: absolute;
+    font-size: 2rem;
 }
 
 
@@ -1569,7 +1571,7 @@ hr.invis1 {
     ;
 }
 
-.gallery-single p{
+.gallery-single p {
     margin-left: 10px;
 }
 
@@ -2226,6 +2228,7 @@ select.mobile-device {
     top: 100%;
     left: 0px;
 }
+
 
 /* new form styles */
 

@@ -703,7 +703,7 @@ xclip
     display: flex;
     width: 100%;
     height: auto;
-    padding-top: 30px;
+    padding: 100px 0px;
 }
 
 .language-section {
